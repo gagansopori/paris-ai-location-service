@@ -1,0 +1,5 @@
+ai\paris\location\service\model\UserLocationResponse.class
+ai\paris\location\service\service\UserLocationService.class
+ai\paris\location\service\application\LocationTriggerApplication.class
+ai\paris\location\service\configuration\UserLocationConfiguration.class
+ai\paris\location\service\service\UserLocationServiceImpl.class
